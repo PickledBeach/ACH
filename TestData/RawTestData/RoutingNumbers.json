@@ -1,0 +1,344 @@
+[
+  {
+    "BankName": "STATE STREET BANK AND TRUST COMPANY",
+    "RoutingNumber": 11000028,
+    "State": "MA",
+    "ZipCode": "021710000"
+  },
+  {
+    "BankName": "BANK OF AMERICA, N.A.",
+    "RoutingNumber": 11000138,
+    "State": "VA",
+    "ZipCode": "232280000"
+  },
+  {
+    "BankName": "BANK OF NEW YORK MELLON",
+    "RoutingNumber": 11001234,
+    "State": "PA",
+    "ZipCode": "152620000"
+  },
+  {
+    "BankName": "CITIZENS BANK NA",
+    "RoutingNumber": 11001331,
+    "State": "RI",
+    "ZipCode": "029150000"
+  },
+  {
+    "BankName": "CATHAY BANK",
+    "RoutingNumber": 11001962,
+    "State": "CA",
+    "ZipCode": "917700000"
+  },
+  {
+    "BankName": "WELLS FARGO BANK",
+    "RoutingNumber": 11100106,
+    "State": "MN",
+    "ZipCode": "554790000"
+  },
+  {
+    "BankName": "WEBSTER BANK",
+    "RoutingNumber": 11101613,
+    "State": "CT",
+    "ZipCode": "060530000"
+  },
+  {
+    "BankName": "TD BANK NA",
+    "RoutingNumber": 11103093,
+    "State": "ME",
+    "ZipCode": "042401377"
+  },
+  {
+    "BankName": "KEY BANK",
+    "RoutingNumber": 11200022,
+    "State": "NY",
+    "ZipCode": "122110000"
+  },
+  {
+    "BankName": "ST MARY'S BANK",
+    "RoutingNumber": 11400149,
+    "State": "NH",
+    "ZipCode": "031030000"
+  },
+  {
+    "BankName": "PEOPLE'S UNITED BANK, N.A.",
+    "RoutingNumber": 11600062,
+    "State": "VT",
+    "ZipCode": "054020000"
+  },
+  {
+    "BankName": "JPMORGAN CHASE",
+    "RoutingNumber": 21000021,
+    "State": "FL",
+    "ZipCode": "336100000"
+  },
+  {
+    "BankName": "CITIBANK NA",
+    "RoutingNumber": 21000089,
+    "State": "DE",
+    "ZipCode": "197200000"
+  },
+  {
+    "BankName": "DEUTSCHE BANK TRUST CO AMERICAS",
+    "RoutingNumber": 21001033,
+    "State": "NJ",
+    "ZipCode": "073110000"
+  },
+  {
+    "BankName": "FANNIE MAE",
+    "RoutingNumber": 21039500,
+    "State": "DC",
+    "ZipCode": "200160000"
+  },
+  {
+    "BankName": "JOINT UPIC ACCOUNT",
+    "RoutingNumber": 21052053,
+    "State": "NC",
+    "ZipCode": "273100000"
+  },
+  {
+    "BankName": "BANCO POPULAR",
+    "RoutingNumber": 21502011,
+    "State": "PR",
+    "ZipCode": "009362708"
+  },
+  {
+    "BankName": "UNITED FIDELITY BANK, FSB",
+    "RoutingNumber": 21606690,
+    "State": "IN",
+    "ZipCode": "477060000"
+  },
+  {
+    "BankName": "MERCHANTS COMMERCIAL BANK",
+    "RoutingNumber": 21606742,
+    "State": "VI",
+    "ZipCode": "008021735"
+  },
+  {
+    "BankName": "FTC",
+    "RoutingNumber": 26007922,
+    "State": "MO",
+    "ZipCode": "641060000"
+  },
+  {
+    "BankName": "BANK OZK",
+    "RoutingNumber": 26013291,
+    "State": "AR",
+    "ZipCode": "729490000"
+  },
+  {
+    "BankName": "CNB",
+    "RoutingNumber": 31100555,
+    "State": "MD",
+    "ZipCode": "216010000"
+  },
+  {
+    "BankName": "CITIBANK (SOUTH DAKOTA) NA",
+    "RoutingNumber": 31100908,
+    "State": "SD",
+    "ZipCode": "571040000"
+  },
+  {
+    "BankName": "WOODFOREST NATIONAL BK",
+    "RoutingNumber": 31319058,
+    "State": "TX",
+    "ZipCode": "773800000"
+  },
+  {
+    "BankName": "HUNTINGTON NATIONAL BANK",
+    "RoutingNumber": 41000153,
+    "State": "OH",
+    "ZipCode": "432724195"
+  },
+  {
+    "BankName": "CENTRAL BANK & TRUST CO.",
+    "RoutingNumber": 42100146,
+    "State": "KY",
+    "ZipCode": "405070000"
+  },
+  {
+    "BankName": "WESBANCO BANK INC",
+    "RoutingNumber": 42202219,
+    "State": "WV",
+    "ZipCode": "260030000"
+  },
+  {
+    "BankName": "SYNCHRONY BANK",
+    "RoutingNumber": 42202688,
+    "State": "UT",
+    "ZipCode": "840200000"
+  },
+  {
+    "BankName": "REGIONS BANK",
+    "RoutingNumber": 51009296,
+    "State": "AL",
+    "ZipCode": "352010000"
+  },
+  {
+    "BankName": "PINNACLE BANK",
+    "RoutingNumber": 51405450,
+    "State": "TN",
+    "ZipCode": "372010000"
+  },
+  {
+    "BankName": "SOUTH STATE BANK",
+    "RoutingNumber": 51408907,
+    "State": "SC",
+    "ZipCode": "294060000"
+  },
+  {
+    "BankName": "UNITED COMMUNITY BANK",
+    "RoutingNumber": 53105059,
+    "State": "GA",
+    "ZipCode": "305120000"
+  },
+  {
+    "BankName": "CIBC BANK USA",
+    "RoutingNumber": 61020113,
+    "State": "IL",
+    "ZipCode": "606020000"
+  },
+  {
+    "BankName": "IBERIABANK",
+    "RoutingNumber": 61020317,
+    "State": "LA",
+    "ZipCode": "705010000"
+  },
+  {
+    "BankName": "TREAS/IRS/EFTPS RECV",
+    "RoutingNumber": 61036000,
+    "State": "CO",
+    "ZipCode": "801120000"
+  },
+  {
+    "BankName": "FEDGLOBAL DZ BANK AG",
+    "RoutingNumber": 61050057,
+    "State": "",
+    "ZipCode": "999990000"
+  },
+  {
+    "BankName": "RENASANT BANK",
+    "RoutingNumber": 61104275,
+    "State": "MS",
+    "ZipCode": "388020000"
+  },
+  {
+    "BankName": "SYNCHRONY BANK",
+    "RoutingNumber": 61119752,
+    "State": "KS",
+    "ZipCode": "662030000"
+  },
+  {
+    "BankName": "JPMORGAN CHASE",
+    "RoutingNumber": 65400137,
+    "State": "MI",
+    "ZipCode": "481110000"
+  },
+  {
+    "BankName": "MIDWESTONE BK",
+    "RoutingNumber": 67015012,
+    "State": "IA",
+    "ZipCode": "522400000"
+  },
+  {
+    "BankName": "MUTUAL OF OMAHA BANK",
+    "RoutingNumber": 67015478,
+    "State": "AZ",
+    "ZipCode": "852820000"
+  },
+  {
+    "BankName": "ASSOCIATED BANK CHICAGO",
+    "RoutingNumber": 71002147,
+    "State": "WI",
+    "ZipCode": "543040000"
+  },
+  {
+    "BankName": "FIRST NATIONAL BANK OF OMAHA",
+    "RoutingNumber": 71902629,
+    "State": "NE",
+    "ZipCode": "681970000"
+  },
+  {
+    "BankName": "STARION BANK",
+    "RoutingNumber": 75972202,
+    "State": "ND",
+    "ZipCode": "585540000"
+  },
+  {
+    "BankName": "BOKF, N.A.",
+    "RoutingNumber": 82901392,
+    "State": "OK",
+    "ZipCode": "741350000"
+  },
+  {
+    "BankName": "FIRST SECURITY BANK HELENA",
+    "RoutingNumber": 92001208,
+    "State": "MT",
+    "ZipCode": "596240000"
+  },
+  {
+    "BankName": "STATE BK & TR-DIV OF BK OF COMMERCE",
+    "RoutingNumber": 92900862,
+    "State": "ID",
+    "ZipCode": "832020000"
+  },
+  {
+    "BankName": "FOUR CORNERS COMMUNITY BANK",
+    "RoutingNumber": 102104587,
+    "State": "NM",
+    "ZipCode": "874010000"
+  },
+  {
+    "BankName": "RSNB BANK",
+    "RoutingNumber": 102300255,
+    "State": "WY",
+    "ZipCode": "829014224"
+  },
+  {
+    "BankName": "BANNER BANK",
+    "RoutingNumber": 121135087,
+    "State": "WA",
+    "ZipCode": "992020000"
+  },
+  {
+    "BankName": "UMPQUA BANK",
+    "RoutingNumber": 121136785,
+    "State": "OR",
+    "ZipCode": "972300000"
+  },
+  {
+    "BankName": "HERITAGE BANK OF NEVADA",
+    "RoutingNumber": 121201814,
+    "State": "NV",
+    "ZipCode": "895020000"
+  },
+  {
+    "BankName": "FIRST HAWAIIAN BANK",
+    "RoutingNumber": 121301015,
+    "State": "HI",
+    "ZipCode": "968190000"
+  },
+  {
+    "BankName": "CITY TRUST BANK",
+    "RoutingNumber": 121403049,
+    "State": "MP",
+    "ZipCode": "969500000"
+  },
+  {
+    "BankName": "ANZ GUAM INC",
+    "RoutingNumber": 121404022,
+    "State": "AS",
+    "ZipCode": "967993790"
+  },
+  {
+    "BankName": "CITIZENS SECURITY BANK (CENTURY BK)",
+    "RoutingNumber": 121405173,
+    "State": "GU",
+    "ZipCode": "969100000"
+  },
+  {
+    "BankName": "FIRST BANK",
+    "RoutingNumber": 125200044,
+    "State": "AK",
+    "ZipCode": "999012920"
+  }
+]
